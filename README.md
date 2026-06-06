@@ -38,7 +38,7 @@ Phase 1: ML Systems + Production ML
 
 ML Prediction Service
 
-Repository: TODO
+Repository: [ml-prediction-service](https://www.github.com/Harper2123/ml-prediction-service)
 
 ## Roadmap
 
